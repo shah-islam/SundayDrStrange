@@ -19,3 +19,4 @@ protected static void demo(){
 	System.out.println("Demo method for singlton class");
 }
 }
+//this change to check on git2 devShah
